@@ -1,0 +1,14 @@
+C:\Users\A01566180\source\repos\ExamenFinal_PtIII\ExamenFinal_PtIII\bin\Debug\ExamenFinal_PtIII.exe.config
+C:\Users\A01566180\source\repos\ExamenFinal_PtIII\ExamenFinal_PtIII\bin\Debug\ExamenFinal_PtIII.exe
+C:\Users\A01566180\source\repos\ExamenFinal_PtIII\ExamenFinal_PtIII\bin\Debug\ExamenFinal_PtIII.pdb
+C:\Users\A01566180\source\repos\ExamenFinal_PtIII\ExamenFinal_PtIII\obj\Debug\ExamenFinal_PtIII.csprojAssemblyReference.cache
+C:\Users\A01566180\source\repos\ExamenFinal_PtIII\ExamenFinal_PtIII\obj\Debug\ExamenFinal_PtIII.csproj.CoreCompileInputs.cache
+C:\Users\A01566180\source\repos\ExamenFinal_PtIII\ExamenFinal_PtIII\obj\Debug\ExamenFinal_PtIII.exe
+C:\Users\A01566180\source\repos\ExamenFinal_PtIII\ExamenFinal_PtIII\obj\Debug\ExamenFinal_PtIII.pdb
+C:\Users\A01566180\Desktop\ExamenFinal_PtIII\ExamenFinal_PtIII\bin\Debug\ExamenFinal_PtIII.exe.config
+C:\Users\A01566180\Desktop\ExamenFinal_PtIII\ExamenFinal_PtIII\bin\Debug\ExamenFinal_PtIII.exe
+C:\Users\A01566180\Desktop\ExamenFinal_PtIII\ExamenFinal_PtIII\bin\Debug\ExamenFinal_PtIII.pdb
+C:\Users\A01566180\Desktop\ExamenFinal_PtIII\ExamenFinal_PtIII\obj\Debug\ExamenFinal_PtIII.csprojAssemblyReference.cache
+C:\Users\A01566180\Desktop\ExamenFinal_PtIII\ExamenFinal_PtIII\obj\Debug\ExamenFinal_PtIII.csproj.CoreCompileInputs.cache
+C:\Users\A01566180\Desktop\ExamenFinal_PtIII\ExamenFinal_PtIII\obj\Debug\ExamenFinal_PtIII.exe
+C:\Users\A01566180\Desktop\ExamenFinal_PtIII\ExamenFinal_PtIII\obj\Debug\ExamenFinal_PtIII.pdb
