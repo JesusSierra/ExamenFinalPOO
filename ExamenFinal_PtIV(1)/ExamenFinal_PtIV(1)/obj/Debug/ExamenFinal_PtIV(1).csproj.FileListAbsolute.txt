@@ -1,0 +1,7 @@
+C:\Users\A01566180\source\repos\ExamenFinal_PtIV(1)\ExamenFinal_PtIV(1)\obj\Debug\ExamenFinal_PtIV(1).csprojAssemblyReference.cache
+C:\Users\A01566180\source\repos\ExamenFinal_PtIV(1)\ExamenFinal_PtIV(1)\obj\Debug\ExamenFinal_PtIV(1).csproj.CoreCompileInputs.cache
+C:\Users\A01566180\source\repos\ExamenFinal_PtIV(1)\ExamenFinal_PtIV(1)\bin\Debug\ExamenFinal_PtIV(1).exe.config
+C:\Users\A01566180\source\repos\ExamenFinal_PtIV(1)\ExamenFinal_PtIV(1)\bin\Debug\ExamenFinal_PtIV(1).exe
+C:\Users\A01566180\source\repos\ExamenFinal_PtIV(1)\ExamenFinal_PtIV(1)\bin\Debug\ExamenFinal_PtIV(1).pdb
+C:\Users\A01566180\source\repos\ExamenFinal_PtIV(1)\ExamenFinal_PtIV(1)\obj\Debug\ExamenFinal_PtIV(1).exe
+C:\Users\A01566180\source\repos\ExamenFinal_PtIV(1)\ExamenFinal_PtIV(1)\obj\Debug\ExamenFinal_PtIV(1).pdb
